@@ -17,9 +17,9 @@ algorithms with some others well-known algorithms from literature, such as Nauty
 
 KEYWORDS: Graph theory, Isomorphims, Algorithms, Eigenvectors.
 
-### The thesis (pt-br): [link](dissertation-mbaroni-2012.pdf)
+### The dissertation (pt-br): [link](dissertation-mbaroni-2012.pdf?raw=true)
 
-### Paper about the approach (en): [link](paper.pdf)
+### Paper about the approach (en): [link](paper.pdf?raw=true)
 
 ### Results summary
 (todo)
