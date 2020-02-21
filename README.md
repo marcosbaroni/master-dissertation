@@ -20,10 +20,17 @@ KEYWORDS: Graph theory, Isomorphims, Algorithms, Eigenvectors.
 ### Execution
 Compile and execute program:
 ```
+cd src
 make
 ./isom g1.txt g2.txt
 ```
-where g1.txt and g2.txt are plain text adjacency matrix. (Please check example)
+where g1.txt and g2.txt are plain text adjacency matrices formated as:
+```
+<n of vertices>
+<n of edges>
+<adjacency table (binary)>
+```
+(please check example g1.txt and g2.txt)
 
 ### The dissertation (pt-br): [dissertation-mbaroni-2012.pdf](dissertation-mbaroni-2012.pdf?raw=true)
 
