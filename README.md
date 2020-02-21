@@ -17,6 +17,14 @@ algorithms with some others well-known algorithms from literature, such as Nauty
 
 KEYWORDS: Graph theory, Isomorphims, Algorithms, Eigenvectors.
 
+### Execution
+Compile and execute program:
+```
+make
+./isom g1.txt g2.txt
+```
+where g1.txt and g2.txt are plain text adjacency matrix. (Please check example)
+
 ### The dissertation (pt-br): [dissertation-mbaroni-2012.pdf](dissertation-mbaroni-2012.pdf?raw=true)
 
 ### Paper about the approach (en): [paper.pdf](paper.pdf?raw=true)
