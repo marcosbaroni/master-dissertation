@@ -37,4 +37,10 @@ where g1.txt and g2.txt are plain text adjacency matrices formated as:
 ### Paper about the approach (en): [paper.pdf](paper.pdf?raw=true)
 
 ### Results summary
-(todo)
+Processing time (s) vs Graph size (n. of vertices)
+Proposed algorithm in red.
+(lower is better)
+#### Random graphs (density: 01)
+![Processing time (s) - lower is better](img/r01.png)
+#### Regular graphs (K = 7)
+![Processing time (s) - lower is better](img/reg7.png)
